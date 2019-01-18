@@ -1,0 +1,28 @@
+Instructions to run :
+
+1.Import the project folder in eclipse.
+
+2. This is a spring boot application project 
+
+3. The  codes is present in NewWebPageApplication
+
+    --- src/main/java/com/NewWebPageApplication.java
+    --- src/main/java/com/PageController.java
+    --- src/main/resources/application.properties
+    --- src/main/webapp/WEB-INF/jsps/web.jsp
+    --- pom.xml
+
+
+4. I have set the localhost port to 8081
+ 
+5. Right click on project and run as Spring Boot App
+ 
+
+6. once the application starts running we can check  the browser using the 
+
+URL for webpage is - 
+http://localhost:8081/web
+
+
+
+
